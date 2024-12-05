@@ -1,0 +1,54 @@
+/* Container to hold all skills */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  /* Style for each skill item (using <a> tag) */
+  .skill-item {
+    background-color: #f0f0f0;
+    padding: 12px 16px;  /* Smaller padding */
+    width: 100px;        /* Box width */
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Text color */
+    font-weight: bold; /* Bold text */
+  }
+  
+  /* Change color on hover to show interactivity */
+  .skill-item:hover {
+    background-color: #ddd;
+    color: #007BFF;  /* Change text color on hover */
+  }
+  
+  /* Style for the skill name */
+  .skill-name {
+    font-size: 14px;  /* Smaller font size */
+  }
+  
+  /* Skills row: 5-6 skills per row */
+  .skills-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .skill-item {
+      width: 80px; /* Even smaller box for mobile */
+      padding: 10px;
+    }
+    .skill-name {
+      font-size: 12px; /* Adjust text size for smaller screens */
+    }
+  }
+  

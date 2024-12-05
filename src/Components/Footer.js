@@ -20,14 +20,14 @@ class Footer extends Component {
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>
 
-            <ul>
-              <li>Modified with love by <a title="Ajay Jangid" href="#">
-              ♥️ Ajay Jangid ♥️
-                </a></li>
-            </ul>
+                <ul>
+                <li>Designed and developed with care by <a title="Swaleha" href="#">
+                  ♥️ Swaleha ♥️
+                  </a></li>
+                </ul>
 
             <ul className="copyright">
-              <li>&copy; 2021</li>
+              <li>&copy; 2024</li>
             </ul>
           </div>
           <div id="go-top">

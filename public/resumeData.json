@@ -1,54 +1,39 @@
 {
   "main": {
-    "name": "Ajay Jangid",
-    "occupation": "Software Developer Engineer (SDE)",
-    "companyname": "@WalkingTreeTechnologies, #FullStackDeveloper #Programmer",
-    "companyurl": "https://walkingtree.tech/",
-    "description": "Student",
-    "institutename": "@ManipalUniversity(Jaipur)",
+    "name": "Swaleha",
+    "occupation": "Full Stack Developer",
+    "companyname": "@Encubate Tech Private Limited, #FullStackDeveloper #Programmer",
+    "companyurl": "https://www.flexc.work/",
+    "description": "Dedicated Full Stack Developer",
+    "institutename": "@Graphic Era University (India)",
     "image": "picc.jpg",
-    "bio": "My name is Ajay Jangid, I'm a Software Developer Engineer (Full Stack Engineer) @WalkingTreeTechnologies, completed my BCA from University of Rajasthan, Jaipur (India).",
-    "contactmessage": "Get in touch with me to receive further details.",
-    "email": "0603.ajayy@gmail.com",
-    "phone": "+91 9571316433",
+      "bio": "Hi, I'm Swaleha. A passionate Full Stack Developer with over 3+ years of experience, I specialize in creating scalable, high-performance applications that deliver exceptional user experiences. My expertise lies in using cutting-edge technologies like React, Node.js, and .NET to design, develop, and deploy innovative solutions. Having worked at Encubate Tech Private Limited, I’ve had the opportunity to lead diverse projects, delivering end-to-end solutions that bridge the gap between front-end and back-end technologies. I am committed to writing clean, maintainable code while continuously exploring new tools and frameworks to stay ahead of the curve. Let’s build something amazing together!",
+    "contactmessage": "Feel free to reach out for collaborations or project inquiries.",
+    "email": "swaleha2612000@gmail.com",
+    "phone": "+1 3435735086",
     "address": {
-      "street": "Jaipur",
-      "city": "Jaipur (India)",
-      "state": "India",
-      "zip": "302026"
+      "street": "102 Soleil Avenue",
+      "city": "Ottawa(Canada)",
+      "state": "Ontario",
+      "zip": "K4A0V8"
     },
     "website": "https://ajayjangid06.netlify.app/",
     "resumedownload": "./Resume.pdf",
     "social": [
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ajayjangid06",
+        "url": "https://www.instagram.com/vivacious_swaleha/",
         "className": "fa fa-instagram"
       },
       {
         "name": "linkedin",
-        "url": "#",
+        "url": "https://www.linkedin.com/in/swaleha-6057311a5",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/ajayjangid06",
+        "url": "https://github.com/swaleha456",
         "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "https://join.skype.com/invite/weqsxNKro2Sr",
-        "className": "fa fa-skype"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/ajayjangid06",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/ajayjangid06",
-        "className": "fa fa-twitter"
       }
     ]
   },
@@ -56,53 +41,48 @@
     "skillmessage": "Here are some of my skills and qualifications - ",
     "education": [
       {
-        "school": "Manipal University (Jaipur)",
-        "degree": "MCA- Masters of Computer Applications",
-        "graduated": "2022 - 2024",
-        "description": "Currently pursuing"
+        "school": "Graphic Era University (Dehradun, India)",
+        "degree": "BTECH - Bachelor of Computer Science",
+        "graduated": "2017 - 2021",
+        "description": "Graduated with a GPA of 3.7/4"
       },
       {
-        "school": "University of Rajasthan (RU)",
-        "degree": "BCA- Bachelors of Computer Applications",
-        "graduated": "2018 - 2021",
-        "description": "Graduated with 76 %"
-      },
-      {
-        "school": "Cambridge Sr. Sec. School",
+        "school": "Saraswati Vidhya Mandir Inter College",
         "degree": "10 + 2 (Science + Mathematics)",
-        "graduated": "2016 - 2018",
-        "description": "Passed with 84.60 %"
+        "graduated": "2016 - 2017",
+        "description": "Passed with 93.4%, State Topper, and awarded the Governor's Award"
       },
       {
-        "school": "Cambridge Sr. Sec. School",
-        "degree": "10",
-        "graduated": "2016",
-        "description": "Passed with 91.50 %"
+        "school": "Saraswati Vidhya Mandir Inter College",
+        "degree": "10th",
+        "graduated": "2014",
+        "description": "Passed with 86.6%"
       }
-    ],
+   ],
     "work": [
-      {
-        "company": "Walking Tree Technologies",
-        "companyUrl": "https://walkingtree.tech/",
-        "title": "Full Stack Engineer (10+ Months)",
-        "years": "April 2022 - present",
-        "description": "WalkingTree Technologies is a product development enterprise with a prolific backend engineering team that serves customers across the globe. We deliver end-to-end products, processes, and solutions in the mobile application development and web technologies realms using the best practices in agile to ensure a “Great Experience” that is exemplary and unprecedented."
-      },
-      {
-        "company": "Encubate Tech Pvt. Ltd. (FlexC)",
-        "companyUrl": "https://www.flexc.work/",
-        "title": "Full Stack Engineer (1 Year)",
-        "years": "April 2021 - March 2022",
-        "description": "FlexC is a Encubate Tech Private Limited's product, which is an unlisted private company incorporated on 22 June, 2020. It is classified as a private limited company and is located in Gurugram, Haryana."
-      },
-      {
-        "company": "Proftcode IT Industries",
-        "companyUrl": "https://www.proftcode.com/",
-        "title": "Full Stack Engineer (8 Months)",
-        "years": "August 2020 - March 2021",
-        "description": "Proftcode is a global software development company in Jaipur. Its core business is providing scalable, reliable and affordable eCommerce, Digital Transformation and Software Product Engineering to clients worldwide."
-      }
-    ],
+  {
+    "company": "Encubate Tech Pvt. Ltd. (FlexC)",
+    "companyUrl": "https://www.flexc.work/",
+    "title": "Full Stack Developer (3+ Years)",
+    "years": "October 2021 - November 2024",
+    "description": "Encubate Tech Pvt. Ltd. is a technology services company providing innovative solutions in AI-driven automation and recruitment technologies. As a Full Stack Developer, I developed and launched the OCTO feature on the FlexC platform, optimized performance and scalability, and built dynamic interfaces using ReactJS, Redux, and .NET technologies. I contributed to key client projects, ensuring reliable system integration and data integrity with RESTful APIs, SQL Server, and MongoDB. Below are highlights of my client work:"
+  },
+  {
+    "company": "John Finch Computers Limited (Client via FlexC)",
+    "companyUrl": "https://www.johnfinchcomputers.co.uk/",
+    "title": "Full Stack Developer",
+    "years": "Aug 2024- Oct 2024",
+    "description": "Delivered end-to-end software solutions, developing secure, scalable applications using C#, .NET, SQL, and Angular. Built and integrated secure RESTful APIs to meet client-specific requirements. Enhanced performance and scalability through application optimization, while collaborating with the security team to align with corporate security policies. Deployed applications seamlessly using Azure and DevOps tools."
+  },
+  {
+    "company": "Inforica (Client via FlexC)",
+    "companyUrl": "https://www.inforica.com/",
+    "title": "Full Stack Developer",
+    "years": "2022 - 2023",
+    "description": "Worked on delivering tailored software solutions for Inforica, focusing on scalable web-based systems. Developed and maintained RESTful APIs using .NET and C#, and built web applications with JavaScript, HTML, and CSS. Managed workflows with Azure DevOps and TFVC, ensuring timely delivery of high-quality software. Designed and optimized databases using SQL Server and MongoDB for efficient data handling."
+  }
+],
+
     "skills": [
       {
         "name": "ReactJS",
@@ -111,10 +91,6 @@
       {
         "name": "NodeJS",
         "level": "80%"
-      },
-      {
-        "name": "ExpressJS",
-        "level": "85%"
       },
       {
         "name": "Redux",
@@ -134,7 +110,7 @@
       },
       {
         "name": "jQuery",
-        "level": "80%"
+        "level": "50%"
       },
       {
         "name": "Bootstrap",
@@ -165,10 +141,6 @@
         "level": "80%"
       },
       {
-        "name": "Bitbucket",
-        "level": "70%"
-      },
-      {
         "name": "Azure",
         "level": "70%"
       },
@@ -179,7 +151,15 @@
       {
         "name": "Asana",
         "level": "90%"
-      }
+      },
+      {
+        "name": "Postman",
+        "level": "90%"
+      },
+      {
+        "name": ".NET",
+        "level": "90%"
+      } 
     ]
   },
   "portfolio": {
@@ -213,13 +193,17 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "That Ajay Jangid must be one of the most brilliant developers I've ever met! The way he used to code is very amazing and understanding.",
-        "user": "Dharmendra"
+        "text": "Swaleha is an exceptional developer with a deep understanding of full stack technologies. Her ability to deliver high-quality solutions while ensuring seamless integration is truly impressive.",
+        "user": "John Finch Computers Limited Representative"
       },
       {
-        "text": "That Ajay Jangid must be best buddy. It is amazing to hire him. Hey you, you should hire this guy, he may be pursuing from University but have good job experience and I am confident that he will be one of your best developers in no time!",
-        "user": "Krishna"
+        "text": "Swaleha's expertise in developing scalable and efficient systems greatly contributed to our project's success. Her collaborative approach and problem-solving skills make her an invaluable team member.",
+        "user": "Inforica Representative"
+      },
+      {
+        "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",
+        "user": "Prasoon Kumar Gupta, CTO at FlexC"
       }
     ]
-  }
+}
 }

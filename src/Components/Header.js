@@ -47,11 +47,11 @@ class Header extends Component {
                 Resume
               </a>
             </li>
-            <li>
+            {/* <li>
               <a className="smoothscroll" href="#portfolio">
                 Works
               </a>
-            </li>
+            </li> */}
             <li>
               <a className="smoothscroll" href="#testimonials">
                 Testimonials
@@ -67,27 +67,15 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="responsive-headline">Hi, I'm {name}</h1>
             <h3>
-              I'm a 
-                <a href="https://en.wikipedia.org/wiki/Jaipur" target="_blank">
-                  {" "}{city}
-                </a> based <span>{occupation}</span>{" "}
-              <span>
-                <a href={companyurl} target="_blank">
-                  {companyname}
-                </a>
-              </span>
-              <br/>
-              {" "}{description}{" "}
-              <a href="https://jaipur.manipal.edu/" target="_blank">
-                {institutename}
-              </a>
-              .
+              I am a <span>{occupation}</span> with over 3+ years of experience in building scalable and user-centric applications.  
+              Currently, I am focused on professional development and enhancing my skills through continuous learning, while seeking opportunities to contribute to impactful projects.  
             </h3>
             <br />
             <ul className="social">{networks}</ul>
           </div>
+
         </div>
 
         <p className="scrolldown">

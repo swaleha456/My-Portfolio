@@ -37,20 +37,14 @@ class App extends Component {
   componentDidMount() {
     this.getResumeData();
   }
-  // {
-  //   "company": "Infosys",
-  //   "companyUrl": "https://www.infosys.com/",
-  //   "title": "Full Stack Engineer (10+ Months)",
-  //   "years": "April 2022 - present",
-  //   "description": "Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation."
-  // }, 
+  
   render() {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
-        <Portfolio data={this.state.resumeData.portfolio} />
+        {/* <Portfolio data={this.state.resumeData.portfolio} /> */}
         <Testimonials data={this.state.resumeData.testimonials} />
         <Contact data={this.state.resumeData.main} />
         <Footer data={this.state.resumeData.main} />

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./SkillsStyle.css";
 
 class Resume extends Component {
   render() {
@@ -36,13 +37,13 @@ class Resume extends Component {
           </div>
         );
       });
-      var skills = this.props.data.skills.map(function (skills) {
-        var className = "bar-expand " + skills.name.toLowerCase();
+      var skills = this.props.data.skills.map(function (skill) {
         return (
-          <li key={skills.name}>
-            <span style={{ width: skills.level }} className={className}></span>
-            <em>{skills.name}</em>
-          </li>
+          <div className="skills-row" key={skill.name}>
+            <a href="#" className="skill-item">
+              <span className="skill-name">{skill.name}</span>
+            </a>
+          </div>
         );
       });
     }
@@ -81,11 +82,14 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
+          
 
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
-            </div>
+            <div className="skills-container">
+    <div className="skills-row">
+      {skills}
+    </div>
+  </div>
+);
           </div>
         </div>
       </section>
