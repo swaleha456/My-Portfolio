@@ -1,0 +1,225 @@
+{
+  "main": {
+    "name": "Ajay Jangid",
+    "occupation": "Software Developer Engineer (SDE)",
+    "companyname": "@WalkingTreeTechnologies, #FullStackDeveloper #Programmer",
+    "companyurl": "https://walkingtree.tech/",
+    "description": "Student",
+    "institutename": "@ManipalUniversity(Jaipur)",
+    "image": "picc.jpg",
+    "bio": "My name is Ajay Jangid, I'm a Software Developer Engineer (Full Stack Engineer) @WalkingTreeTechnologies, completed my BCA from University of Rajasthan, Jaipur (India).",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "0603.ajayy@gmail.com",
+    "phone": "+91 9571316433",
+    "address": {
+      "street": "Jaipur",
+      "city": "Jaipur (India)",
+      "state": "India",
+      "zip": "302026"
+    },
+    "website": "https://ajayjangid06.netlify.app/",
+    "resumedownload": "./Resume.pdf",
+    "social": [
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ajayjangid06",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ajayjangid06",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/weqsxNKro2Sr",
+        "className": "fa fa-skype"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ajayjangid06",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ajayjangid06",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my skills and qualifications - ",
+    "education": [
+      {
+        "school": "Manipal University (Jaipur)",
+        "degree": "MCA- Masters of Computer Applications",
+        "graduated": "2022 - 2024",
+        "description": "Currently pursuing"
+      },
+      {
+        "school": "University of Rajasthan (RU)",
+        "degree": "BCA- Bachelors of Computer Applications",
+        "graduated": "2018 - 2021",
+        "description": "Graduated with 76 %"
+      },
+      {
+        "school": "Cambridge Sr. Sec. School",
+        "degree": "10 + 2 (Science + Mathematics)",
+        "graduated": "2016 - 2018",
+        "description": "Passed with 84.60 %"
+      },
+      {
+        "school": "Cambridge Sr. Sec. School",
+        "degree": "10",
+        "graduated": "2016",
+        "description": "Passed with 91.50 %"
+      }
+    ],
+    "work": [
+      {
+        "company": "Walking Tree Technologies",
+        "companyUrl": "https://walkingtree.tech/",
+        "title": "Full Stack Engineer (10+ Months)",
+        "years": "April 2022 - present",
+        "description": "WalkingTree Technologies is a product development enterprise with a prolific backend engineering team that serves customers across the globe. We deliver end-to-end products, processes, and solutions in the mobile application development and web technologies realms using the best practices in agile to ensure a “Great Experience” that is exemplary and unprecedented."
+      },
+      {
+        "company": "Encubate Tech Pvt. Ltd. (FlexC)",
+        "companyUrl": "https://www.flexc.work/",
+        "title": "Full Stack Engineer (1 Year)",
+        "years": "April 2021 - March 2022",
+        "description": "FlexC is a Encubate Tech Private Limited's product, which is an unlisted private company incorporated on 22 June, 2020. It is classified as a private limited company and is located in Gurugram, Haryana."
+      },
+      {
+        "company": "Proftcode IT Industries",
+        "companyUrl": "https://www.proftcode.com/",
+        "title": "Full Stack Engineer (8 Months)",
+        "years": "August 2020 - March 2021",
+        "description": "Proftcode is a global software development company in Jaipur. Its core business is providing scalable, reliable and affordable eCommerce, Digital Transformation and Software Product Engineering to clients worldwide."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "85%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },
+      {
+        "name": "C#",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "jQuery",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "SCSS",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "GIT",
+        "level": "90%"
+      },
+      {
+        "name": "JIRA",
+        "level": "80%"
+      },
+      {
+        "name": "Bitbucket",
+        "level": "70%"
+      },
+      {
+        "name": "Azure",
+        "level": "70%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Asana",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Social App Clone (Instagram)",
+        "category": "Instagram Clone built with MERN (MongoDB, Express.js, React.js, Node.js)",
+        "image": "insta-clone.png",
+        "url": "https://instaclonebyaj.herokuapp.com/"
+      },
+      {
+        "title": "Shopping App Clone (Amazon)",
+        "category": "Amazon Clone built with React.js, Firebase, Node.js (Stripe.js for payments)",
+        "image": "amazon-app.png",
+        "url": "https://fir-723a1.web.app/"
+      },
+      {
+        "title": "Shopping App Clone (Amazon)",
+        "category": "Amazon Clone built with MERN (MongoDB, Express.js, React.js, Node.js, Redux)",
+        "image": "amazona.png",
+        "url": "#"
+      },
+      {
+        "title": "Movies App Clone (Netflix)",
+        "category": "Movies Application built with MERN (MongoDB,Express.js, React.js, Node.js)",
+        "image": "netflix-clone.jpeg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Ajay Jangid must be one of the most brilliant developers I've ever met! The way he used to code is very amazing and understanding.",
+        "user": "Dharmendra"
+      },
+      {
+        "text": "That Ajay Jangid must be best buddy. It is amazing to hire him. Hey you, you should hire this guy, he may be pursuing from University but have good job experience and I am confident that he will be one of your best developers in no time!",
+        "user": "Krishna"
+      }
+    ]
+  }
+}
