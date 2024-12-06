@@ -5,15 +5,15 @@ class Header extends Component {
     if (this.props.data) {
       var name = this.props.data.name;
       var occupation = this.props.data.occupation;
-      var companyname = this.props.data.companyname;
-      var companyurl = this.props.data.companyurl;
-      var description = this.props.data.description;
-      var institutename = this.props.data.institutename;
-      var city = this.props.data.address.city;
+      // var companyname = this.props.data.companyname;
+      // var companyurl = this.props.data.companyurl;
+      // var description = this.props.data.description;
+      // var institutename = this.props.data.institutename;
+      //var city = this.props.data.address.city;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
-            <a href={network.url} target="_blank">
+            <a href={network.url} target="_blank" rel="noopener noreferrer">
               <i className={network.className}></i>
             </a>
           </li>

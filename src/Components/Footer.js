@@ -22,7 +22,7 @@ class Footer extends Component {
 
                 <ul>
                 <li>Designed and developed with care by <a title="Swaleha" href="#">
-                  ♥️ Swaleha ♥️
+                <span role="img" aria-label="heart">❤️</span>Swaleha <span role="img" aria-label="heart">❤️</span>
                   </a></li>
                 </ul>
 

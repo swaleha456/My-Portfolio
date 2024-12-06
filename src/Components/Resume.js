@@ -4,7 +4,7 @@ import "./SkillsStyle.css";
 class Resume extends Component {
   render() {
     if (this.props.data) {
-      var skillmessage = this.props.data.skillmessage;
+      //var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function (education) {
         return (
           <div key={education.school}>
@@ -25,6 +25,7 @@ class Resume extends Component {
                 className="workCompany"
                 href={work.companyUrl}
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 {work.company}
               </a>
