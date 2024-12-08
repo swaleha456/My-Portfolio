@@ -42,7 +42,7 @@ class About extends Component {
                     {zip}
                   </span>
                   <br />
-                  <a className="about__tel" href="tel://+919571316433">
+                  <a className="about__tel" href="tel://+1 3435735086">
                     <span>{phone}</span>
                   </a>
 
@@ -50,7 +50,7 @@ class About extends Component {
 
                   <a
                     className="about__mail"
-                    href="mailto:0603.ajayy@gmail.com?Subject=Hello%20Ajay"
+                    href="mailto:swaleha2612000@gmail.com?Subject=Hello%Swaleha"
                     target="_top"
                   >
                     <span>{email}</span>
@@ -59,7 +59,7 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href={resumeDownload} className="button">
+                <a href={resumeDownload} className="button" download>
                     <i className="fa fa-download"></i>Download Resume
                   </a>
                 </p>

@@ -9,7 +9,7 @@ const Contact = ({ data }) => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
-  console.log(data);
+  // console.log(data);
 
   const handleClick = (e) => {
     e.preventDefault();
@@ -121,11 +121,11 @@ const Contact = ({ data }) => {
               <br />
               {data?.address.zip}
               <br />
-              <a className="contact__tel" href="mailto:0603.ajayy@gmail.com">
+              <a className="contact__tel" href="mailto:swaleha2612000@gmail.com">
                 <span>{data?.email}</span>
               </a>
               <br />
-              <a className="contact__tel" href="tel://+919571316433">
+              <a className="contact__tel" href="tel://+13435735086">
                 <span>{data?.phone}</span>
               </a>
             </p>
