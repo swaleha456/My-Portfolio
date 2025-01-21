@@ -1,9 +1,8 @@
 import React, { useState } from "react";
+import "./SkillsStyle.css";
 
 const Contact = ({ data }) => {
-  // const [url, setUrl] = useState(
-  //   "mailto:test@example.com?subject=subject&body=body"
-  // );
+ 
   const [name, setName] = useState("");
   const [subject, setSubject] = useState("");
   const [email, setEmail] = useState("");
@@ -19,7 +18,7 @@ const Contact = ({ data }) => {
   };
 
   return (
-    <section id="contact">
+    <section id="contact" style={{background: "grey", color:"white"}}>
       <div className="row section-head">
         <div className="two columns header-col">
           <h1>

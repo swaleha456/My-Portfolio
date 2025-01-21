@@ -4,7 +4,8 @@ import "./SkillsStyle.css";
 class Resume extends Component {
   render() {
     if (this.props.data) {
-      //var skillmessage = this.props.data.skillmessage;
+      // console.log("awarads", this.props.data.awards)
+      // var govAward = this.props.data.awards;
       var education = this.props.data.education.map(function (education) {
         return (
           <div key={education.school}>
@@ -50,50 +51,74 @@ class Resume extends Component {
     }
 
     return (
-      <section id="resume">
-        <div className="row education">
-          <div className="three columns header-col">
-            <h1>
-              <span>Qualificaions</span>
-            </h1>
-          </div>
+        <section id="resume">
+            <div className="row education">
+                <div className="three columns header-col">
+                    <h1>
+                        <span>Qualificaions</span>
+                    </h1>
+                </div>
 
-          <div className="nine columns main-col">
-            <div className="row item">
-              <div className="twelve columns">{education}</div>
+                <div className="nine columns main-col">
+                    <div className="row item">
+                        <div className="twelve columns">{education}</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
 
-        <div className="row work">
-          <div className="three columns header-col">
-            <h1>
-              <span>Work</span>
-            </h1>
-          </div>
+            <div className="row work">
+                <div className="three columns header-col">
+                    <h1>
+                        <span>Work</span>
+                    </h1>
+                </div>
 
-          <div className="nine columns main-col">{work}</div>
-        </div>
+                <div className="nine columns main-col">{work}</div>
+            </div>
 
-        <div className="row skill">
-          <div className="three columns header-col">
-            <h1>
-              <span>Skills</span>
-            </h1>
-          </div>
+            <div className="row work">
+                <div className="three columns header-col">
+                    <h1>
+                        <span>Awards</span>
+                    </h1>
+                </div>
 
-          <div className="nine columns main-col">
-          
+                <div className="nine columns main-col">
+                    <div key={"GovernorAward"}>
+                        <h3>{"Governor Award"}</h3>
 
-            <div className="skills-container">
-    <div className="skills-row">
-      {skills}
-    </div>
-  </div>
-);
-          </div>
-        </div>
-      </section>
+                        <p className="margin">
+                            {
+                                "Recognized by the Honorable Governor of Uttarakhand, Dr. Krishna Kant Paul, for achieving the highest academic distinction in the state, exemplifying outstanding academic performance, dedication, and excellence."
+                            }
+                        </p>
+                        <p>
+                            <a
+                                href={"./award.pdf"}
+                                className="button-text"
+                                download
+                            >
+                                <i className="fa fa-download"></i> Download
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div className="row skill">
+                <div className="three columns header-col">
+                    <h1>
+                        <span>Skills</span>
+                    </h1>
+                </div>
+
+                <div className="nine columns main-col">
+                    <div className="skills-container">
+                        <div className="skills-row">{skills}</div>
+                    </div>
+                </div>
+            </div>
+        </section>
     );
   }
 }

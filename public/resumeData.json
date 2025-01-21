@@ -1,209 +1,210 @@
 {
-  "main": {
-    "name": "Swaleha",
-    "occupation": "Full Stack Developer",
-    "companyname": "@Encubate Tech Private Limited, #FullStackDeveloper #Programmer",
-    "companyurl": "https://www.flexc.work/",
-    "description": "Dedicated Full Stack Developer",
-    "institutename": "@Graphic Era University (India)",
-    "image": "picc.jpg",
-      "bio": "Hi, I'm Swaleha. A passionate Full Stack Developer with over 3+ years of experience, I specialize in creating scalable, high-performance applications that deliver exceptional user experiences. My expertise lies in using cutting-edge technologies like React, Node.js, and .NET to design, develop, and deploy innovative solutions. Having worked at Encubate Tech Private Limited, I’ve had the opportunity to lead diverse projects, delivering end-to-end solutions that bridge the gap between front-end and back-end technologies. I am committed to writing clean, maintainable code while continuously exploring new tools and frameworks to stay ahead of the curve. Let’s build something amazing together!",
-    "contactmessage": "Feel free to reach out for collaborations or project inquiries.",
-    "email": "swaleha2612000@gmail.com",
-    "phone": "+1 3435735086",
-    "address": {
-      "street": "102 Soleil Avenue",
-      "city": "Ottawa(Canada)",
-      "state": "Ontario",
-      "zip": "K4A0V8"
+    "main": {
+        "name": "Swaleha",
+        "occupation": "Full Stack Developer",
+        "companyname": "@Encubate Tech Private Limited, #FullStackDeveloper #Programmer",
+        "companyurl": "https://www.flexc.work/",
+        "description": "Dedicated Full Stack Developer",
+        "institutename": "@Graphic Era University (India)",
+        "image": "picc.jpg",
+        "bio": "Hi, I'm Swaleha. A passionate Full Stack Developer with over 3+ years of experience, I specialize in creating scalable, high-performance applications that deliver exceptional user experiences. My expertise lies in using cutting-edge technologies like React, Node.js, and .NET to design, develop, and deploy innovative solutions. Having worked at Encubate Tech Private Limited, I’ve had the opportunity to lead diverse projects, delivering end-to-end solutions that bridge the gap between front-end and back-end technologies. I am committed to writing clean, maintainable code while continuously exploring new tools and frameworks to stay ahead of the curve. Let’s build something amazing together!",
+        "contactmessage": "Feel free to reach out for collaborations or project inquiries.",
+        "email": "swaleha2612000@gmail.com",
+        "phone": "+1 3435735086",
+        "address": {
+            "street": "102 Soleil Avenue",
+            "city": "Ottawa(Canada)",
+            "state": "Ontario",
+            "zip": "K4A0V8"
+        },
+        "website": "https://tech-swalehas-projects.vercel.app/",
+        "resumedownload": "./resume.pdf",
+        "social": [
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/vivacious_swaleha/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/swaleha-6057311a5",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/swaleha456",
+                "className": "fa fa-github"
+            }
+        ]
     },
-    "website": "https://tech-swalehas-projects.vercel.app/",
-    "resumedownload": "./resume.pdf",
-    "social": [
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/vivacious_swaleha/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/swaleha-6057311a5",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/swaleha456",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "Here are some of my skills and qualifications - ",
-    "education": [
-      {
-        "school": "Graphic Era University (Dehradun, India)",
-        "degree": "BTECH - Bachelor of Computer Science",
-        "graduated": "2017 - 2021",
-        "description": "Graduated with a GPA of 3.7/4"
-      },
-      {
-        "school": "Saraswati Vidhya Mandir Inter College",
-        "degree": "10 + 2 (Science + Mathematics)",
-        "graduated": "2016 - 2017",
-        "description": "Passed with 93.4%, State Topper, and awarded the Governor's Award"
-      },
-      {
-        "school": "Saraswati Vidhya Mandir Inter College",
-        "degree": "10th",
-        "graduated": "2014",
-        "description": "Passed with 86.6%"
-      }
-   ],
-    "work": [
-  {
-    "company": "Encubate Tech Pvt. Ltd. (FlexC)",
-    "companyUrl": "https://www.flexc.work/",
-    "title": "Full Stack Developer (3+ Years)",
-    "years": "October 2021 - November 2024",
-    "description": "Encubate Tech Pvt. Ltd. is a technology services company providing innovative solutions in AI-driven automation and recruitment technologies. As a Full Stack Developer, I developed and launched the OCTO feature on the FlexC platform, optimized performance and scalability, and built dynamic interfaces using ReactJS, Redux, and .NET technologies. I contributed to key client projects, ensuring reliable system integration and data integrity with RESTful APIs, SQL Server, and MongoDB. Below are highlights of my client work:"
-  },
-  {
-    "company": "John Finch Computers Limited (Client via FlexC)",
-    "companyUrl": "https://www.johnfinchcomputers.co.uk/",
-    "title": "Full Stack Developer",
-    "years": "Aug 2024- Oct 2024",
-    "description": "Delivered end-to-end software solutions, developing secure, scalable applications using C#, .NET, SQL, and Angular. Built and integrated secure RESTful APIs to meet client-specific requirements. Enhanced performance and scalability through application optimization, while collaborating with the security team to align with corporate security policies. Deployed applications seamlessly using Azure and DevOps tools."
-  },
-  {
-    "company": "Inforica (Client via FlexC)",
-    "companyUrl": "https://www.inforica.com/",
-    "title": "Full Stack Developer",
-    "years": "2022 - 2023",
-    "description": "Worked on delivering tailored software solutions for Inforica, focusing on scalable web-based systems. Developed and maintained RESTful APIs using .NET and C#, and built web applications with JavaScript, HTML, and CSS. Managed workflows with Azure DevOps and TFVC, ensuring timely delivery of high-quality software. Designed and optimized databases using SQL Server and MongoDB for efficient data handling."
-  }
-],
+    "resume": {
+        "skillmessage": "Here are some of my skills and qualifications - ",
+        "education": [
+            {
+                "school": "Graphic Era University (Dehradun, India)",
+                "degree": "BTECH - Bachelor of Computer Science",
+                "graduated": "2017 - 2021",
+                "description": "Graduated with a GPA of 3.7/4"
+            },
+            {
+                "school": "Saraswati Vidhya Mandir Inter College",
+                "degree": "10 + 2 (Science + Mathematics)",
+                "graduated": "2016 - 2017",
+                "description": "Passed with 93.4%, State Topper, and awarded the Governor's Award"
+            },
+            {
+                "school": "Saraswati Vidhya Mandir Inter College",
+                "degree": "10th",
+                "graduated": "2014",
+                "description": "Passed with 86.6%"
+            }
+        ],
+        "work": [
+            {
+                "company": "Encubate Tech Pvt. Ltd. (FlexC)",
+                "companyUrl": "https://www.flexc.work/",
+                "title": "Full Stack Developer (3+ Years)",
+                "years": "October 2021 - November 2024",
+                "description": "Encubate Tech Pvt. Ltd. is a technology services company providing innovative solutions in AI-driven automation and recruitment technologies. As a Full Stack Developer, I developed and launched the OCTO feature on the FlexC platform, optimized performance and scalability, and built dynamic interfaces using ReactJS, Redux, and .NET technologies. I contributed to key client projects, ensuring reliable system integration and data integrity with RESTful APIs, SQL Server, and MongoDB. Below are highlights of my client work:"
+            },
+            {
+                "company": "John Finch Computers Limited (Client via FlexC)",
+                "companyUrl": "https://www.johnfinchcomputers.co.uk/",
+                "title": "Full Stack Developer",
+                "years": "Aug 2024- Oct 2024",
+                "description": "Delivered end-to-end software solutions, developing secure, scalable applications using C#, .NET, SQL, and Angular. Built and integrated secure RESTful APIs to meet client-specific requirements. Enhanced performance and scalability through application optimization, while collaborating with the security team to align with corporate security policies. Deployed applications seamlessly using Azure and DevOps tools."
+            },
+            {
+                "company": "Inforica (Client via FlexC)",
+                "companyUrl": "https://www.inforica.com/",
+                "title": "Full Stack Developer",
+                "years": "2022 - 2023",
+                "description": "Worked on delivering tailored software solutions for Inforica, focusing on scalable web-based systems. Developed and maintained RESTful APIs using .NET and C#, and built web applications with JavaScript, HTML, and CSS. Managed workflows with Azure DevOps and TFVC, ensuring timely delivery of high-quality software. Designed and optimized databases using SQL Server and MongoDB for efficient data handling."
+            }
+        ],
 
-    "skills": [
-      {
-        "name": "ReactJS",
-        "level": "95%"
-      },
-      {
-        "name": "NodeJS",
-        "level": "80%"
-      },
-      {
-        "name": "Redux",
-        "level": "85%"
-      },
-      {
-        "name": "C#",
-        "level": "75%"
-      },
-      {
-        "name": "Javascript",
-        "level": "90%"
-      },
-      {
-        "name": "SQL",
-        "level": "80%"
-      },
-      {
-        "name": "jQuery",
-        "level": "50%"
-      },
-      {
-        "name": "Bootstrap",
-        "level": "90%"
-      },
-      {
-        "name": "SCSS",
-        "level": "85%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "HTML5",
-        "level": "95%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      },
-      {
-        "name": "GIT",
-        "level": "90%"
-      },
-      {
-        "name": "JIRA",
-        "level": "80%"
-      },
-      {
-        "name": "Azure",
-        "level": "70%"
-      },
-      {
-        "name": "MySQL",
-        "level": "80%"
-      },
-      {
-        "name": "Asana",
-        "level": "90%"
-      },
-      {
-        "name": "Postman",
-        "level": "90%"
-      },
-      {
-        "name": ".NET",
-        "level": "90%"
-      } 
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Social App Clone (Instagram)",
-        "category": "Instagram Clone built with MERN (MongoDB, Express.js, React.js, Node.js)",
-        "image": "insta-clone.png",
-        "url": "https://instaclonebyaj.herokuapp.com/"
-      },
-      {
-        "title": "Shopping App Clone (Amazon)",
-        "category": "Amazon Clone built with React.js, Firebase, Node.js (Stripe.js for payments)",
-        "image": "amazon-app.png",
-        "url": "https://fir-723a1.web.app/"
-      },
-      {
-        "title": "Shopping App Clone (Amazon)",
-        "category": "Amazon Clone built with MERN (MongoDB, Express.js, React.js, Node.js, Redux)",
-        "image": "amazona.png",
-        "url": "#"
-      },
-      {
-        "title": "Movies App Clone (Netflix)",
-        "category": "Movies Application built with MERN (MongoDB,Express.js, React.js, Node.js)",
-        "image": "netflix-clone.jpeg",
-        "url": "#"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Swaleha is an exceptional developer with a deep understanding of full stack technologies. Her ability to deliver high-quality solutions while ensuring seamless integration is truly impressive.",
-        "user": "John Finch Computers Limited Representative"
-      },
-      {
-        "text": "Swaleha's expertise in developing scalable and efficient systems greatly contributed to our project's success. Her collaborative approach and problem-solving skills make her an invaluable team member.",
-        "user": "Inforica Representative"
-      },
-      {
-        "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",
-        "user": "Prasoon Kumar Gupta, CTO at FlexC"
-      }
-    ]
-}
+        
+        "skills": [
+            {
+                "name": "ReactJS",
+                "level": "95%"
+            },
+            {
+                "name": "NodeJS",
+                "level": "80%"
+            },
+            {
+                "name": "Redux",
+                "level": "85%"
+            },
+            {
+                "name": "C#",
+                "level": "75%"
+            },
+            {
+                "name": "Javascript",
+                "level": "90%"
+            },
+            {
+                "name": "SQL",
+                "level": "80%"
+            },
+            {
+                "name": "jQuery",
+                "level": "50%"
+            },
+            {
+                "name": "Bootstrap",
+                "level": "90%"
+            },
+            {
+                "name": "SCSS",
+                "level": "85%"
+            },
+            {
+                "name": "CSS",
+                "level": "95%"
+            },
+            {
+                "name": "HTML5",
+                "level": "95%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            },
+            {
+                "name": "GIT",
+                "level": "90%"
+            },
+            {
+                "name": "JIRA",
+                "level": "80%"
+            },
+            {
+                "name": "Azure",
+                "level": "70%"
+            },
+            {
+                "name": "MySQL",
+                "level": "80%"
+            },
+            {
+                "name": "Asana",
+                "level": "90%"
+            },
+            {
+                "name": "Postman",
+                "level": "90%"
+            },
+            {
+                "name": ".NET",
+                "level": "90%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "OCTO Resume Intelligence Dashboard",
+                "category": "Introducing FlexC OCTO, a resume intelligence tool built to transform how recruiters screen applications, helping them speed up the application process and thus simplifying hiring.OCTO is built with extensive research and can screen candidates 10X faster⚡ with 3X accuracy👌.  ",
+                "image": "octo.jpeg",
+                "url": "https://bit.ly/3KcCnRk"
+            },
+            {
+                "title": "Agency Model",
+                "category": "The Agency Model provides a platform tailored for recruitment agencies to manage and scale their operations. It enables agencies to connect with top-tier talent, streamline hiring processes, and manage recruitment workflows efficiently.",
+                "image": "agency.jpeg",
+                "url": "https://www.flexc.work/recruiter"
+            },
+            {
+                "title": "Talent Marketplace",
+                "category": "The Talent Marketplace offers a dynamic platform for freelancers and organizations to connect. It allows companies to find skilled professionals for short-term projects or ongoing work, while freelancers can showcase their expertise and secure opportunities.",
+                "image": "talent.jpeg",
+                "url": "https://www.flexc.work/talent"
+            },
+            {
+                "title": "Organization",
+                "category": "The Organization platform is designed for enterprises to manage teams, workflows, and resources at scale. It provides tools to optimize internal collaboration, streamline operations, and build high-performing teams for long-term success.",
+                "image": "professional.jpeg",
+                "url": "https://www.flexc.work/enterprise"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Swaleha is an exceptional developer with a deep understanding of full stack technologies. Her ability to deliver high-quality solutions while ensuring seamless integration is truly impressive.",
+                "user": "John Finch Computers Limited Representative"
+            },
+            {
+                "text": "Swaleha's expertise in developing scalable and efficient systems greatly contributed to our project's success. Her collaborative approach and problem-solving skills make her an invaluable team member.",
+                "user": "Inforica Representative"
+            },
+            {
+                "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",
+                "user": "Prasoon Kumar Gupta, CTO at FlexC"
+            }
+        ]
+    }
 }

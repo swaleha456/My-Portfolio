@@ -15,7 +15,7 @@ class Footer extends Component {
     }
 
     return (
-      <footer>
+      <footer style={{color:"white"}}>
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">{networks}</ul>

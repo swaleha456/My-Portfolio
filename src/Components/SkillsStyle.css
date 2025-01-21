@@ -40,6 +40,20 @@
     justify-content: center;
     margin-bottom: 20px;
   }
+
+    .button-text {
+      color: #0056b3;
+      /* Change to a visible color, like black or your preferred choice */
+    }
+  
+    .contact {
+      background-color: #f0f0f0;
+      color: white;
+    }
+  
+    .margin {
+      margin-bottom: 10px;
+    }
   
   /* Responsive design for smaller screens */
   @media (max-width: 768px) {
