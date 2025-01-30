@@ -76,6 +76,20 @@ class Resume extends Component {
                 <div className="nine columns main-col">{work}</div>
             </div>
 
+            <div className="row skill">
+                <div className="three columns header-col">
+                    <h1>
+                        <span>Skills</span>
+                    </h1>
+                </div>
+
+                <div className="nine columns main-col">
+                    <div className="skills-container">
+                        <div className="skills-row">{skills}</div>
+                    </div>
+                </div>
+            </div>
+
             <div className="row work">
                 <div className="three columns header-col">
                     <h1>
@@ -105,7 +119,36 @@ class Resume extends Component {
                 </div>
             </div>
 
-            <div className="row skill">
+            <div className="row work">
+                <div className="three columns header-col">
+                    <h1>
+                        <span>Certifications</span>
+                    </h1>
+                </div>
+
+                <div className="nine columns main-col">
+                    <div key={"Certificate"}>
+                        <h3>{"C-Sharp"}</h3>
+
+                        <p className="margin">
+                            {
+                                "Thrilled to earn the HackerRank C# certificate, demonstrating my skills in problem-solving, object-oriented programming, and efficient coding."
+                            }
+                        </p>
+                        <p>
+                            <a
+                                href={"./csharp-swaleha-certificate.pdf"}
+                                className="button-text"
+                                download
+                            >
+                                <i className="fa fa-download"></i> Download Certificate
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            {/* <div className="row skill">
                 <div className="three columns header-col">
                     <h1>
                         <span>Skills</span>
@@ -117,7 +160,7 @@ class Resume extends Component {
                         <div className="skills-row">{skills}</div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </section>
     );
   }

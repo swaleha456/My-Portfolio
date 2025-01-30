@@ -21,11 +21,6 @@
         "resumedownload": "./resume.pdf",
         "social": [
             {
-                "name": "instagram",
-                "url": "https://www.instagram.com/vivacious_swaleha/",
-                "className": "fa fa-instagram"
-            },
-            {
                 "name": "linkedin",
                 "url": "https://www.linkedin.com/in/swaleha-6057311a5",
                 "className": "fa fa-linkedin"
@@ -45,12 +40,6 @@
                 "degree": "BTECH - Bachelor of Computer Science",
                 "graduated": "2017 - 2021",
                 "description": "Graduated with a GPA of 3.7/4"
-            },
-            {
-                "school": "Saraswati Vidhya Mandir Inter College",
-                "degree": "12th (Science + Mathematics)",
-                "graduated": "2016 - 2017",
-                "description": "Passed with 93.4%, State Topper, and awarded the Governor's Award"
             }
         ],
         "work": [
