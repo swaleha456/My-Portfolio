@@ -127,6 +127,29 @@ class Resume extends Component {
                 </div>
 
                 <div className="nine columns main-col">
+                    <div key={"TypeScriptCertificate"}>
+                        <h3>{"TypeScript"}</h3>
+
+                        <p className="margin">
+                            {
+                                "Thrilled to earn the Microsoft TypeScript Learning Badge, showcasing my proficiency in TypeScript fundamentals, advanced type handling, and building scalable, maintainable applications."
+                            }
+                        </p>
+                        <p>
+                            <a
+                                href={"./MicroSoft-TypeScript-Badge-Certificate.pdf"}
+                                className="button-text"
+                                download
+                            >
+                                 {/* Microsoft Icon */}
+                                 <img src="images/microsoft.png" alt="" style={{ width: '20px', marginRight: '8px', marginBottom: '-4px'}} />
+                                <i className="fa fa-download"></i> Download Badge
+                            </a>
+                        </p>
+                    </div>
+                </div>
+
+                <div className="nine columns main-col">
                     <div key={"Certificate"}>
                         <h3>{"C-Sharp"}</h3>
 
@@ -141,6 +164,8 @@ class Resume extends Component {
                                 className="button-text"
                                 download
                             >
+                                {/* HackerRank Icon */}
+                                 <img src="images/hackerrank.png" alt="" style={{ width: '32px', marginRight: '8px', marginBottom: '-4px'}} />
                                 <i className="fa fa-download"></i> Download Certificate
                             </a>
                         </p>
