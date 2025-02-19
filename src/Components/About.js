@@ -41,10 +41,10 @@ class About extends Component {
                     <br />
                     {zip}
                   </span>
-                  <br />
+                  {/* <br />
                   <a className="about__tel" href="tel://+1 3435735086">
                     <span>{phone}</span>
-                  </a>
+                  </a> */}
 
                   <br />
 

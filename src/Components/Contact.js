@@ -124,9 +124,9 @@ const Contact = ({ data }) => {
                 <span>{data?.email}</span>
               </a>
               <br />
-              <a className="contact__tel" href="tel://+13435735086">
+              {/* <a className="contact__tel" href="tel://+13435735086">
                 <span>{data?.phone}</span>
-              </a>
+              </a> */}
             </p>
           </div>
 
