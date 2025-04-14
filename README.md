@@ -1,11 +1,3 @@
-# 🚀 Getting Started with Your React Portfolio
-
-## 📺 Watch Before You Begin  
-**[Click here to watch the tutorial](https://tinyurl.com/customizeReactPortfolio)**  
-Learn how to customize and deploy your own professional portfolio using ReactJS.
-
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
-
 ## 🌐 [Live Demo](https://tech-swalehas-projects.vercel.app/)
 
 ---
@@ -24,9 +16,8 @@ Before getting started, ensure you have the following:
 
 ### 🔧 Setup Instructions
 1. **Download the Project**  
-   Get the source code from GitHub:  
-   👉 [Download ZIP](https://github.com/CleverProgrammers/react-portfolio)
-
+   Get the source code from GitHub
+   
 2. **Open in Visual Studio Code**  
    Unzip the folder and open it in VS Code or your preferred code editor.
 
