@@ -1,29 +1,54 @@
-## 👇 WATCH THIS FIRST 👇  
-## https://tinyurl.com/customizeReactPortfolio
+# 🚀 Getting Started with Your React Portfolio
+
+## 📺 Watch Before You Begin  
+**[Click here to watch the tutorial](https://tinyurl.com/customizeReactPortfolio)**  
+Learn how to customize and deploy your own professional portfolio using ReactJS.
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://portfolio-swalehas-projects.vercel.app/">LIVE DEMO</a>
+## 🌐 [Live Demo](https://tech-swalehas-projects.vercel.app/)
 
-## Description
-This is a modern, customizable ReactJS-based personal portfolio website designed to showcase your skills, projects, and professional experience. It's perfect for developers, designers, or anyone looking to build a professional online presence.
+---
 
-## Make it Your Own!
-#### PREREQUISITES:
-- Sign up for a Vercel account <a href='https://vercel.com/'>HERE</a>
-- Install Node.js on your computer <a href='https://nodejs.org/en/'>HERE</a>
+## 📄 Project Overview  
+This is a sleek and modern **ReactJS-based personal portfolio website** designed to help you showcase your **skills, projects, and professional experience**. Whether you're a developer, designer, or freelancer, this template is ideal for building a compelling and professional online presence.
 
-#### PROCEDURE:
-- Download the zip folder from GitHub and unzip it
-Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
-- Open the folder in VS Code
-- Edit <code>public/resumeData.json</code> and add your personal details and projects
-- Open terminal in VS Code
-- RUN <code>npm init</code>, this command can be used to set up a new or existing npm package
-- RUN <code>npm install</code>, this command pulls out all the required node modules
-- RUN <code>npm run build</code>, this command will create a build folder for you
-- Upload the `build` folder to Vercel:
-  - Go to your Vercel dashboard
-  - Import your project or upload the `build` folder directly
-- Your app is live now on Vercel for the world to see!
+---
+
+## 🛠 How to Customize and Deploy
+
+### ✅ Prerequisites
+Before getting started, ensure you have the following:
+- A [Vercel](https://vercel.com/) account (for hosting)
+- [Node.js](https://nodejs.org/en/) installed on your computer
+
+### 🔧 Setup Instructions
+1. **Download the Project**  
+   Get the source code from GitHub:  
+   👉 [Download ZIP](https://github.com/CleverProgrammers/react-portfolio)
+
+2. **Open in Visual Studio Code**  
+   Unzip the folder and open it in VS Code or your preferred code editor.
+
+3. **Update Portfolio Data**  
+   Modify `public/resumeData.json` with your personal details, projects, and links.
+
+4. **Install Dependencies**  
+   In your terminal, run the following commands:
+   ```bash
+   npm init       # Initialize the project
+   npm install    # Install necessary packages
+   
+5. **Build the Project**  
+   Create a production build by running: npm run build
+
+5. **Deploy to Vercel**  
+   Log into your Vercel Dashboard
+
+  Import your GitHub repository or upload the build folder directly
+
+  Follow the prompts to deploy
+
+
+ 🎉 Your personal portfolio is now live for the world to see!
+
