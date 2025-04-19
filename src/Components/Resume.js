@@ -173,19 +173,31 @@ class Resume extends Component {
                 </div>
             </div>
 
-            {/* <div className="row skill">
+            <div className="row work">
                 <div className="three columns header-col">
                     <h1>
-                        <span>Skills</span>
+                        <span>Websites</span>
                     </h1>
                 </div>
 
                 <div className="nine columns main-col">
-                    <div className="skills-container">
-                        <div className="skills-row">{skills}</div>
-                    </div>
+                <div key={"Construction"}>
+                    <h3>Construction Website</h3>
+
+                    <p className="margin">
+                        Designed and developed a professional website from the ground up for <strong>ThreeWay Drywall</strong>, a construction company specializing in drywall solutions. The website enhances the company’s online presence, showcases its services, and supports marketing initiatives. Visit the live site here:{" "}
+                        <a 
+                            href="https://constructifydev.netlify.app/" 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                        >
+                            Construction Website
+                        </a>.
+                    </p>
                 </div>
-            </div> */}
+            </div>
+
+            </div>
         </section>
     );
   }
