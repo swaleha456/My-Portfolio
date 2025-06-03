@@ -20,7 +20,7 @@ class Resume extends Component {
       });
       var work = this.props.data.work.map(function (work) {
         return (
-          <div key={work.company}>
+            <div key={work.company}>
             <h3>
               <a
                 className="workCompany"
@@ -28,7 +28,18 @@ class Resume extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {work.company}
+                {work.logoUrl ? (
+                  <>
+                    <img
+                      src={work.logoUrl}
+                      alt={`${work.company} logo`}
+                      style={{ width: '20px', marginRight: '8px', marginBottom: '-2px' }}
+                    />
+                    {work.company}
+                  </>
+                ) : (
+                  work.company
+                )}
               </a>
             </h3>
             <p className="info">
@@ -37,6 +48,7 @@ class Resume extends Component {
             </p>
             <p>{work.description}</p>
           </div>
+          
         );
       });
       var skills = this.props.data.skills.map(function (skill) {

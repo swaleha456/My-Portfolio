@@ -15,7 +15,7 @@
             "street": "2890 St. Joseph Blvd Orleans",
             "city": "Ottawa(Canada)",
             "state": "Ontario",
-            "zip": "k1C 1GC"
+            "zip": "k1C 1G7"
         },
         "website": "https://tech-swalehas-projects.vercel.app/",
         "resumedownload": "./resume.pdf",
@@ -43,6 +43,15 @@
             }
         ],
         "work": [
+            {
+                "company": "Wendy's",
+                "companyUrl": "https://www.linkedin.com/company/wendys/", 
+                "title": "Customer Service Associate (Part-Time)",
+                "years": "May 2025 – Present",
+                "description": "Providing fast, friendly service in a high-paced environment. Developed strong communication, time management, and conflict resolution skills while working closely with diverse teams. Demonstrated professionalism and reliability in customer-facing situations and upheld company standards for quality and service.",
+                "logoUrl": "images/wendy.png"
+            },
+            
             {
                 "company": "Encubate Tech Pvt. Ltd. (FlexC)",
                 "companyUrl": "https://www.flexc.work/",
@@ -150,6 +159,22 @@
             },
             {
                 "name": ".NET",
+                "level": "90%"
+            },
+            {
+                "name": "Docker",
+                "level": "90%"
+            },
+            {
+                "name": "Debugging",
+                "level": "90%"
+            },
+            {
+                "name": "Manual Testing ",
+                "level": "90%"
+            },
+            {
+                "name": "Kubernetes",
                 "level": "90%"
             }
         ]
