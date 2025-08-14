@@ -28,12 +28,17 @@ class Resume extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
+                {console.log("work",work)}
                 {work.logoUrl ? (
                   <>
                     <img
                       src={work.logoUrl}
                       alt={`${work.company} logo`}
-                      style={{ width: '20px', marginRight: '8px', marginBottom: '-2px' }}
+                      style={{
+                        maxHeight: '40px',  // logo height will not exceed 40px
+                        marginRight: '8px',
+                        verticalAlign: 'middle'
+                      }}
                     />
                     {work.company}
                   </>
@@ -44,7 +49,7 @@ class Resume extends Component {
             </h3>
             <p className="info">
               {work.title}
-              <span>&bull;</span> <em className="date">{work.years}</em>
+              {/* <span>&bull;</span> <em className="date">{work.years}</em> */}
             </p>
             <p>{work.description}</p>
           </div>
