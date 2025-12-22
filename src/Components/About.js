@@ -30,33 +30,6 @@ class About extends Component {
 
             <p>{bio}</p>
             <div className="row">
-              <div className="columns contact-details">
-                <h2>Contact Details</h2>
-                <p className="address">
-                  <span>{name}</span>
-                  <br />
-                  <span>
-                    
-                    {city}, {state}
-                    <br />
-                    {zip}
-                  </span>
-                  {/* <br />
-                  <a className="about__tel" href="tel://+1 3435735086">
-                    <span>{phone}</span>
-                  </a> */}
-
-                  <br />
-
-                  <a
-                    className="about__mail"
-                    href="mailto:swaleha2612000@gmail.com?Subject=Hello%Swaleha"
-                    target="_top"
-                  >
-                    <span>{email}</span>
-                  </a>
-                </p>
-              </div>
               <div className="columns download">
                 <p>
                 <a href={resumeDownload} className="button" download>

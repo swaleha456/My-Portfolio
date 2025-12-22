@@ -49,22 +49,42 @@ class Resume extends Component {
             </h3>
             <p className="info">
               {work.title}
-              {/* <span>&bull;</span> <em className="date">{work.years}</em> */}
+              {work.years ? (
+                    <>
+                        <span>&bull;</span> <em className="date">{work.years}</em>
+                    </>
+                    ) : null}
             </p>
             <p>{work.description}</p>
           </div>
           
         );
       });
-      var skills = this.props.data.skills.map(function (skill) {
+
+    var skills = this.props.data.skills.map(function (category) {
         return (
-          <div className="skills-row" key={skill.name}>
-            <a href="#" className="skill-item">
-              <span className="skill-name">{skill.name}</span>
-            </a>
+          <div className="skill-category" key={category.category}>
+            <h3>{category.category}</h3>
+            <div className="skills-list">
+              {category.skills.map(function (skill) {
+                return (
+                  <div className="skill-item" key={skill.name}>
+                    <span className="skill-name">{skill.name}</span>
+                    <div className="progress-bar">
+                      <div
+                        className="progress"
+                        style={{ width: skill.level, backgroundColor: "#61dafb" }}
+                      ></div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
           </div>
         );
       });
+      
+
     }
 
     return (

@@ -1,24 +1,25 @@
 {
     "main": {
       "name": "Swaleha",
-      "occupation": "Full Stack Developer | QA Analyst",
-      "companyname": "@Encubate Tech Private Limited, #FullStackDeveloper #Programmer #QAAnalyst",
+      "occupation": "Full Stack Developer",
+      "companyname": "@Encubate Tech Private Limited, #FullStackDeveloper #Programmer",
       "companyurl": "https://www.flexc.work/",
       "description": "Dedicated Full Stack Developer with QA Expertise",
       "institutename": "@Graphic Era University (India)",
       "image": "picc.jpg",
-        "bio": "Hi, I’m Swaleha — a results-driven Full Stack Developer and QA Analyst with over 3 years of experience delivering scalable, high-performance applications and quality-assured solutions. I specialize in React, Node.js, .NET, Playwright, Postman, and Azure DevOps, with a strong track record of leading end-to-end development and comprehensive testing for complex projects. At Encubate Tech Private Limited, I spearheaded full-cycle application development, conducted rigorous manual and automated testing, performed API validation, and implemented test automation frameworks to ensure seamless, bug-free releases. My approach combines clean, maintainable code with meticulous QA practices, enabling teams to deliver reliable software on time. I am passionate about building robust, user-focused applications while maintaining the highest quality standards through collaborative processes. Let’s connect and bring exceptional software to life.",
+        "bio": "I am a Full Stack Developer currently working at VerifyWise in Canada, specializing in building scalable and user-friendly web applications with React, Node.js, and .NET. I have experience setting up automated testing and deployment pipelines using Playwright, Postman, and Azure DevOps. I enjoy taking projects from concept to deployment, solving real problems along the way, and ensuring clean, maintainable code. Open to new opportunities, I am passionate about delivering software that is not only functional but also impactful.",
+      
         "contactmessage": "Feel free to reach out for collaborations, consulting, or project opportunities.",
       "email": "swaleha2612000@gmail.com",
       "phone": "",
       "address": {
-        "street": "2890 St. Joseph Blvd Orleans",
-        "city": "Ottawa(Canada)",
-        "state": "Ontario",
-        "zip": "K1C 1G7"
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": ""
       },
       "website": "https://tech-swalehas-projects.vercel.app/",
-      "resumedownload": "./resume.pdf",
+      "resumedownload": "./Swaleha Resume.pdf",
       "social": [
         {
           "name": "linkedin",
@@ -44,24 +45,32 @@
       ],
       "work": [
         {
+          "company": "VerifyWise",
+          "companyUrl": "https://app.verifywise.ai/",
+          "title": "Full Stack Developer",
+          "years": "Aug 2025 – Present",
+          "logoUrl": "images/verifywise.png",
+          "description": "At VerifyWise, I contribute to the development of a robust AI governance platform, building scalable full-stack solutions that integrate front-end React components with Node.js and TypeScript backends. I work on API integrations, optimize database queries, and implement security best practices across the platform. Collaborating closely with cross-functional teams, I help deliver new features, improve performance, and maintain efficient CI/CD pipelines using Azure DevOps."
+        },        
+        {
           "company": "BlueWave Labs",
           "companyUrl": "https://bluewavelabs.ca/",
           "title": "Full Stack Developer",
-          "years": "November 2024 – Present",
+          "years": "Aug 2025 – Present",
           "logoUrl": "images/BlueWaves.png",
-          "description": "At BluWave Labs—a Canadian open-source incubator building impactful B2B/SaaS tools like VerifyWise—I lead full-stack development for the VerifyWise platform, an open-source AI governance solution. I design and implement scalable backend services using TypeScript and Node.js, and develop interactive, user-focused front-end components with JavaScript and React. I integrate third-party APIs for verification workflows, optimize database queries, and apply security best practices throughout the application. I collaborate with cross-functional teams to deliver new features, improve performance, and ensure smooth CI/CD deployments using Azure DevOps."
-        },
+          "description": "At BlueWave Labs a Canadian open-source incubator building impactful B2B/SaaS tools like VerifyWise.I lead full-stack development for the VerifyWise platform, an open-source AI governance solution. I design and implement scalable backend services with Node.js and TypeScript, and develop interactive, user-focused front-end components using React and JavaScript. I integrate third-party APIs for verification workflows, optimize database performance, and enforce security best practices. Collaborating with cross-functional teams, I deliver new features, enhance application performance, and maintain smooth CI/CD pipelines with Azure DevOps."
+        },        
         {
           "company": "Professional Development & Freelance Work | Remote, Canada",
           "title": "Full Stack Developer (Freelance & Open Source)",
-          "years": "November 2023 – July 2024",
+          "years": "Dec 2024 – July 2025",
           "description": "Focused on professional development, upskilling, and freelance projects. Created a personal developer portfolio and earned certifications in C# and TypeScript. Built a fully functional construction company website for a friend, featuring a responsive design, service pages, and contact forms. Developed secure full-stack applications using Node.js, React, TypeScript, and PostgreSQL, deployed via AWS and Docker. Practiced test-driven development (TDD) and contributed to continuous integration pipelines in freelance and open-source projects. Designed client-side interfaces with responsive UIs, and implemented backend logic with RESTful and GraphQL APIs."
         },
         {
           "company": "Encubate Tech Pvt. Ltd. (FlexC)",
           "companyUrl": "https://www.flexc.work/",
           "title": "Full Stack Developer & QA Analyst",
-          "years": "October 2021 - November 2024",
+          "years": "Oct 2021 - Nov 2024",
           "logoUrl": "images/FLEXC.png",
           "description": "Encubate Tech Pvt. Ltd. is a technology services company providing innovative solutions in AI-driven automation and recruitment technologies. As a Full Stack Developer and QA Analyst, I developed and launched the OCTO feature on the FlexC platform, optimized performance and scalability, and built dynamic interfaces using ReactJS, Redux, and .NET. I also conducted end-to-end testing, including manual testing, API testing using Postman, and automation testing using Playwright. Collaborated in QA retrospectives, UAT to production deployments, and resolved bugs through debugging and root cause analysis."
         },
@@ -78,88 +87,131 @@
           "companyUrl": "https://www.inforica.com/",
           "title": "Full Stack Developer",
           "years": "",
+          "logoUrl": "images/inforica.png",
           "description": "Worked on delivering tailored software solutions for Inforica, focusing on scalable web-based systems. Developed and maintained RESTful APIs using .NET and C#, and built web applications with JavaScript, HTML, and CSS. Managed workflows with Azure DevOps and TFVC, ensuring timely delivery of high-quality software. Designed and optimized databases using SQL Server and MongoDB for efficient data handling."
         }
       ],
+     "skills": [
+    {
+      "category": "Frontend",
       "skills": [
-        { "name": "ReactJS", "level": "95%" },
-        { "name": "NodeJS", "level": "80%" },
-        { "name": "Redux", "level": "85%" },
-        { "name": "C#", "level": "75%" },
-        { "name": "Javascript", "level": "90%" },
+        { "name": "React", "level": "95%" },
         { "name": "TypeScript", "level": "90%" },
-        { "name": "Figma", "level": "90%" },
-        { "name": "SQL", "level": "80%" },
-        { "name": "jQuery", "level": "50%" },
-        { "name": "Bootstrap", "level": "90%" },
-        { "name": "SCSS", "level": "85%" },
-        { "name": "CSS", "level": "95%" },
-        { "name": "HTML5", "level": "95%" },
-        { "name": "MongoDB", "level": "80%" },
-        { "name": "GIT", "level": "90%" },
-        { "name": "JIRA", "level": "80%" },
-        { "name": "MySQL", "level": "80%" },
-        { "name": "Asana", "level": "90%" },
-        { "name": "Postman", "level": "90%" },
-        { "name": ".NET", "level": "90%" },
-        { "name": "Docker", "level": "90%" },
-        { "name": "Debugging", "level": "90%" },
-        { "name": "Manual Testing", "level": "90%" },
-        { "name": "Automation Testing", "level": "85%" },
-        { "name": "API Testing", "level": "90%" },
-        { "name": "Selenium", "level": "70%" },
-        { "name": "Playwright", "level": "80%" },
-        { "name": "Test Case Design", "level": "85%" },
-        { "name": "Bug Reporting", "level": "90%" },
-        { "name": "Functional Testing", "level": "85%" },
-        { "name": "Regression Testing", "level": "80%" },
-        { "name": "Azure Devops", "level": "70%" },
-        { "name": "Kubernetes", "level": "90%" }
+        { "name": "JavaScript", "level": "90%" },
+        { "name": "Redux", "level": "85%" },
+        { "name": "HTML", "level": "95%" },
+        { "name": "CSS", "level": "95%" }
       ]
+    },
+    {
+      "category": "Backend",
+      "skills": [
+        { "name": "Node.js", "level": "85%" },
+        { "name": "API Integration", "level": "85%" },
+        { "name": "REST", "level": "80%" },
+        { "name": "C#", "level": "50%" },
+        { "name": "SQL", "level": "80%" },
+        { "name": "MongoDB", "level": "80%" },
+        { "name": "PostgreSQL", "level": "80%" }
+      ]
+    },
+    {
+      "category": "Cloud / DevOps",
+      "skills": [
+        { "name": "AWS", "level": "80%" },
+        { "name": "Azure", "level": "80%" },
+        { "name": "GitHub Actions", "level": "75%" },
+        { "name": "Docker", "level": "90%" },
+        { "name": "CI/CD", "level": "80%" },
+        { "name": "Vercel Deployments", "level": "80%" },
+        { "name": "Netlify", "level": "80%" }
+      ]
+    },
+    {
+      "category": "Tools",
+      "skills": [
+        { "name": "GitHub", "level": "90%" },
+        { "name": "Jira", "level": "100%" },
+        { "name": "Figma", "level": "90%" },
+        { "name": "Postman", "level": "90%" },
+        { "name": "VS Code", "level": "95%" },
+        { "name": "Docker", "level": "90%" },
+        { "name": "PG Admin", "level": "80%" }
+      ]
+    },
+    {
+      "category": "Practices",
+      "skills": [
+        { "name": "Design Systems", "level": "85%" },
+        { "name": "Component Architecture", "level": "90%" },
+        { "name": "Documentation", "level": "90%" },
+        { "name": "Code Reviews", "level": "85%" },
+        { "name": "Performance Optimization", "level": "85%" },
+        { "name": "Agile/Scrum", "level": "80%" }
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "skills": [
+        { "name": "Communication", "level": "95%" },
+        { "name": "Collaboration", "level": "95%" },
+        { "name": "Curiosity", "level": "90%" },
+        { "name": "Problem Solving", "level": "90%" },
+        { "name": "Attention to Detail", "level": "95%" }
+      ]
+    }
+  ]
     },
     "portfolio": {
-      "projects": [
-        {
-          "title": "OCTO Resume Intelligence Dashboard",
-          "category": "Introducing FlexC OCTO, a resume intelligence tool built to transform how recruiters screen applications, helping them speed up the application process and thus simplifying hiring. OCTO is built with extensive research and can screen candidates 10X faster⚡ with 3X accuracy👌.",
-          "image": "octo.jpeg",
-          "url": "https://bit.ly/3KcCnRk"
-        },
-        {
-          "title": "Agency Model",
-          "category": "The Agency Model provides a platform tailored for recruitment agencies to manage and scale their operations. It enables agencies to connect with top-tier talent, streamline hiring processes, and manage recruitment workflows efficiently.",
-          "image": "agency.jpeg",
-          "url": "https://www.flexc.work/recruiter"
-        },
-        {
-          "title": "Talent Marketplace",
-          "category": "The Talent Marketplace offers a dynamic platform for freelancers and organizations to connect. It allows companies to find skilled professionals for short-term projects or ongoing work, while freelancers can showcase their expertise and secure opportunities.",
-          "image": "talent.jpeg",
-          "url": "https://www.flexc.work/talent"
-        },
-        {
-          "title": "Organization",
-          "category": "The Organization platform is designed for enterprises to manage teams, workflows, and resources at scale. It provides tools to optimize internal collaboration, streamline operations, and build high-performing teams for long-term success.",
-          "image": "professional.jpeg",
-          "url": "https://www.flexc.work/enterprise"
-        }
-      ]
+  "projects": [
+    {
+      "title": "VerifyWise",
+      "category": "VerifyWise is an open-source AI governance platform developed to ensure secure, compliant, and transparent verification workflows. I contributed to building scalable full-stack features using React and Node.js, integrating third-party APIs, optimizing database performance, and maintaining CI/CD pipelines with Azure DevOps.",
+      "image": "verifywise.jpeg",
+      "url": "https://app.verifywise.ai/"
     },
+    {
+      "title": "OCTO Resume Intelligence Dashboard",
+     "category": "FlexC OCTO is a cutting-edge resume intelligence dashboard designed to revolutionize how recruiters evaluate and screen applications. Leveraging advanced algorithms and machine learning, OCTO can analyze candidate resumes 10X faster and with 3X higher accuracy compared to traditional methods.The platform highlights top talent, identifies key skills, and automates screening to streamline the hiring process.",
+      "image": "octo.jpeg",
+      "url": "https://bit.ly/3KcCnRk"
+    },
+    {
+      "title": "Agency Model",
+      "category": "A platform tailored for recruitment agencies to manage and scale operations efficiently. The Agency Model streamlines hiring workflows, connects agencies with top-tier talent, and optimizes recruitment processes for better productivity.",
+      "image": "agency.jpeg",
+      "url": "https://www.flexc.work/recruiter"
+    },
+    {
+      "title": "Talent Marketplace",
+      "category": "A dynamic platform connecting freelancers with organizations for short-term or long-term projects. Talent Marketplace enables companies to find skilled professionals while allowing freelancers to showcase expertise and secure new opportunities.",
+      "image": "talent.jpeg",
+      "url": "https://www.flexc.work/talent"
+    },
+    {
+      "title": "Organization Model",
+      "category": "An enterprise platform designed to manage teams, workflows, and resources at scale. Organization provides tools to optimize collaboration, streamline operations, and build high-performing teams for long-term success.",
+      "image": "professional.jpeg",
+      "url": "https://www.flexc.work/enterprise"
+    }
+  ]
+},
     "testimonials": {
       "testimonials": [
         {
-          "text": "Swaleha is an exceptional developer with a deep understanding of full stack technologies. Her ability to deliver high-quality solutions while ensuring seamless integration is truly impressive.",
-          "user": "John Finch Computers Limited Representative"
+          "text": "I’m thrilled to recommend Swaleha. She consistently delivers scalable, secure, and high-performing web applications, seamlessly integrating front-end and back-end functionality. Her technical expertise, problem-solving skills, and meticulous attention to detail make her an invaluable and trusted team member.",
+          "user": "Muhammad Khalilzadeh, Technical Leader @ VerifyWise"
         },
         {
-          "text": "Swaleha's expertise in developing scalable and efficient systems greatly contributed to our project's success. Her collaborative approach and problem-solving skills make her an invaluable team member.",
-          "user": "Inforica Representative"
+          "text": "Swaleha consistently builds reliable, efficient web applications and is always ready to support her teammates. She takes complex requirements and turns them into clean, maintainable solutions, approaching her work with creativity, dedication, and a positive attitude.",
+          "user": "Yougal Bimali, Software Developer @ VerifyWise"
         },
         {
           "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",
           "user": "Prasoon Kumar Gupta, CTO at FlexC"
         }
       ]
+
     }
   }
   

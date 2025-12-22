@@ -65,4 +65,43 @@
       font-size: 12px; /* Adjust text size for smaller screens */
     }
   }
+
+
+  .skills-section {
+    margin-top: 30px;
+  }
+  
+  .skill-category {
+    margin-bottom: 24px;
+  }
+  
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .skill-item {
+    flex: 1 1 200px;
+  }
+  
+  .skill-name {
+    font-weight: 600;
+    margin-bottom: 4px;
+    display: block;
+  }
+  
+  .progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 8px;
+  }
+  
+  .progress {
+    background-color: #61dafb; /* Change color as needed */
+    height: 100%;
+    border-radius: 4px;
+  }
+  
   

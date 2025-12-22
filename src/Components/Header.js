@@ -70,9 +70,10 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">Hi, I'm {name}</h1>
             <h3>
-              I am a <span>{occupation}</span> with over 3+ years of experience in building scalable and user-centric applications.  
-              Currently, I am focused on professional development and enhancing my skills through continuous learning, while seeking opportunities to contribute to impactful projects.  
+              I am a <span>{occupation}</span> with over 4+ years of experience building scalable, user-focused applications.  
+              Currently, I’m working with VerifyWise, honing my skills and contributing to projects that make a real impact.
             </h3>
+
             <br />
             <ul className="social">{networks}</ul>
           </div>
