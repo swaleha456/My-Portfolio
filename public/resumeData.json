@@ -165,34 +165,7 @@
     "portfolio": {
   "projects": [
     {
-      "title": "VerifyWise",
-      "category": "VerifyWise is an open-source AI governance platform developed to ensure secure, compliant, and transparent verification workflows. I contributed to building scalable full-stack features using React and Node.js, integrating third-party APIs, optimizing database performance, and maintaining CI/CD pipelines with Azure DevOps.",
-      "image": "verifywise.jpeg",
-      "url": "https://app.verifywise.ai/"
-    },
-    {
-      "title": "OCTO Resume Intelligence Dashboard",
-     "category": "FlexC OCTO is a cutting-edge resume intelligence dashboard designed to revolutionize how recruiters evaluate and screen applications. Leveraging advanced algorithms and machine learning, OCTO can analyze candidate resumes 10X faster and with 3X higher accuracy compared to traditional methods.The platform highlights top talent, identifies key skills, and automates screening to streamline the hiring process.",
-      "image": "octo.jpeg",
-      "url": "https://bit.ly/3KcCnRk"
-    },
-    {
-      "title": "Agency Model",
-      "category": "A platform tailored for recruitment agencies to manage and scale operations efficiently. The Agency Model streamlines hiring workflows, connects agencies with top-tier talent, and optimizes recruitment processes for better productivity.",
-      "image": "agency.jpeg",
-      "url": "https://www.flexc.work/recruiter"
-    },
-    {
-      "title": "Talent Marketplace",
-      "category": "A dynamic platform connecting freelancers with organizations for short-term or long-term projects. Talent Marketplace enables companies to find skilled professionals while allowing freelancers to showcase expertise and secure new opportunities.",
-      "image": "talent.jpeg",
-      "url": "https://www.flexc.work/talent"
-    },
-    {
-      "title": "Organization Model",
-      "category": "An enterprise platform designed to manage teams, workflows, and resources at scale. Organization provides tools to optimize collaboration, streamline operations, and build high-performing teams for long-term success.",
-      "image": "professional.jpeg",
-      "url": "https://www.flexc.work/enterprise"
+     
     }
   ]
 },
