@@ -8,13 +8,32 @@ const Contact = ({ data }) => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
-  // console.log(data);
-
   const handleClick = (e) => {
     e.preventDefault();
-    window.open(
-      `mailto:swaleha2612000@gmail.com?subject=${subject}&body=${name}: ${message}`
-    );
+    
+    if (!name.trim() || !email.trim() || !message.trim()) {
+      alert("Please fill in required fields");
+      return;
+    }
+  
+    const form = new FormData();
+    form.append("name", name);
+    form.append("email", email);
+    form.append("subject", subject);
+    form.append("message", message);
+  
+    fetch("https://formsubmit.co/swaleha2612000@gmail.com", {
+      method: "POST",
+      body: form,
+    })
+      .then(() => {
+        setName("");
+        setEmail("");
+        setSubject("");
+        setMessage("");
+        alert("✓ Message sent successfully!");
+      })
+      .catch(() => alert("❌ Error sending message"));
   };
 
   return (
