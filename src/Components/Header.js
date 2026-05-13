@@ -71,7 +71,7 @@ class Header extends Component {
             <h1 className="responsive-headline">Hi, I'm {name}</h1>
             <h3>
               I am a <span>{occupation}</span> with over 4+ years of experience building scalable, user-focused applications.  
-              Currently, I’m working with VerifyWise, honing my skills and contributing to projects that make a real impact.
+              I specialize in full-stack development and enjoy creating performant, maintainable software that delivers real impact.
             </h3>
 
             <br />

@@ -7,7 +7,7 @@
       "description": "Dedicated Full Stack Developer with QA Expertise",
       "institutename": "@Graphic Era University (India)",
       "image": "picc.jpg",
-        "bio": "I am a Full Stack Developer currently working at VerifyWise in Canada, specializing in building scalable and user-friendly web applications with React, Node.js, and .NET. I have experience setting up automated testing and deployment pipelines using Playwright, Postman, and Azure DevOps. I enjoy taking projects from concept to deployment, solving real problems along the way, and ensuring clean, maintainable code. Open to new opportunities, I am passionate about delivering software that is not only functional but also impactful.",
+       "bio": "I am a Full Stack Developer with experience building scalable and user-friendly web applications using React, Node.js, and .NET. I have worked across roles involving automated testing and deployment pipelines using Playwright, Postman, and Azure DevOps, with a strong focus on performance, security, and maintainable code. I enjoy taking projects from concept to deployment, solving real-world problems, and delivering impactful software solutions. I am currently open to new opportunities where I can continue growing and contribute as a developer.",
       
         "contactmessage": "Feel free to reach out for collaborations, consulting, or project opportunities.",
       "email": "swaleha2612000@gmail.com",
@@ -45,32 +45,24 @@
       ],
       "work": [
         {
-          "company": "VerifyWise",
+          "company": "VerifyWise (BlueWave Labs)",
           "companyUrl": "https://app.verifywise.ai/",
-          "title": "Full Stack Developer",
+          "title": "Full Stack Developer (Volunteer)",
           "years": "Aug 2025 – Feb 2026",
           "logoUrl": "images/verifywise.png",
-          "description": "At VerifyWise, I contribute to the development of a robust AI governance platform, building scalable full-stack solutions that integrate front-end React components with Node.js and TypeScript backends. I work on API integrations, optimize database queries, and implement security best practices across the platform. Collaborating closely with cross-functional teams, I help deliver new features, improve performance, and maintain efficient CI/CD pipelines using Azure DevOps."
-        },        
-        {
-          "company": "BlueWave Labs",
-          "companyUrl": "https://bluewavelabs.ca/",
-          "title": "Full Stack Developer",
-          "years": "Aug 2025 – Feb 2026",
-          "logoUrl": "images/BlueWaves.png",
-          "description": "At BlueWave Labs a Canadian open-source incubator building impactful B2B/SaaS tools like VerifyWise.I lead full-stack development for the VerifyWise platform, an open-source AI governance solution. I design and implement scalable backend services with Node.js and TypeScript, and develop interactive, user-focused front-end components using React and JavaScript. I integrate third-party APIs for verification workflows, optimize database performance, and enforce security best practices. Collaborating with cross-functional teams, I deliver new features, enhance application performance, and maintain smooth CI/CD pipelines with Azure DevOps."
-        },        
+          "description": "At VerifyWise, a product under BlueWave Labs, I contributed to the development of a robust AI governance platform by building scalable full-stack solutions using React, Node.js, and TypeScript. I worked on API integrations, optimized database queries, and implemented security best practices across the platform. Collaborating with cross-functional teams, I helped deliver new features, improve application performance, and maintain efficient CI/CD pipelines using Azure DevOps."
+        },    
         {
           "company": "Professional Development & Freelance Work | Remote, Canada",
           "title": "Full Stack Developer (Freelance & Open Source)",
-          "years": "Dec 2024 – July 2025",
+          "years": "Nov 2024 – July 2025",
           "description": "Focused on professional development, upskilling, and freelance projects. Created a personal developer portfolio and earned certifications in C# and TypeScript. Built a fully functional construction company website for a friend, featuring a responsive design, service pages, and contact forms. Developed secure full-stack applications using Node.js, React, TypeScript, and PostgreSQL, deployed via AWS and Docker. Practiced test-driven development (TDD) and contributed to continuous integration pipelines in freelance and open-source projects. Designed client-side interfaces with responsive UIs, and implemented backend logic with RESTful and GraphQL APIs."
         },
         {
           "company": "Encubate Tech Pvt. Ltd. (FlexC)",
           "companyUrl": "https://www.flexc.work/",
-          "title": "Full Stack Developer & QA Analyst",
-          "years": "Oct 2021 - Nov 2024",
+          "title": "Full Stack Developer",
+          "years": "Oct 2021 - Oct 2024",
           "logoUrl": "images/FLEXC.png",
           "description": "Encubate Tech Pvt. Ltd. is a technology services company providing innovative solutions in AI-driven automation and recruitment technologies. As a Full Stack Developer and QA Analyst, I developed and launched the OCTO feature on the FlexC platform, optimized performance and scalability, and built dynamic interfaces using ReactJS, Redux, and .NET. I also conducted end-to-end testing, including manual testing, API testing using Postman, and automation testing using Playwright. Collaborated in QA retrospectives, UAT to production deployments, and resolved bugs through debugging and root cause analysis."
         },
@@ -172,12 +164,12 @@
     "testimonials": {
       "testimonials": [
         {
-          "text": "I’m thrilled to recommend Swaleha. She consistently delivers scalable, secure, and high-performing web applications, seamlessly integrating front-end and back-end functionality. Her technical expertise, problem-solving skills, and meticulous attention to detail make her an invaluable and trusted team member.",
-          "user": "Muhammad Khalilzadeh, Technical Leader @ VerifyWise"
+          "text": "I worked closely with Swaleha. She’s a very reliable and thoughtful developer. She’s strong in Javascript, React, TypeScript, and Node.js. She doesn’t just code and really thinks about how things should work. She asks great questions, cares about quality, and takes ownership when something needs fixing. She communicates clearly, supports her teammates, and can be trusted with important parts of a product. I’d happily work with her again and strongly recommend her to any team.",
+          "user": "Dr. Gorkem Cetin, CEO @ VerifyWise"
         },
         {
-          "text": "Swaleha consistently builds reliable, efficient web applications and is always ready to support her teammates. She takes complex requirements and turns them into clean, maintainable solutions, approaching her work with creativity, dedication, and a positive attitude.",
-          "user": "Yougal Bimali, Software Developer @ VerifyWise"
+          "text": "I’m thrilled to recommend Swaleha. She consistently delivers scalable, secure, and high-performing web applications, seamlessly integrating front-end and back-end functionality. Her technical expertise, problem-solving skills, and meticulous attention to detail make her an invaluable and trusted team member.",
+          "user": "Muhammad Khalilzadeh, Technical Leader @ VerifyWise"
         },
         {
           "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",

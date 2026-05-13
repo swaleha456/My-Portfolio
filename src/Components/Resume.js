@@ -224,7 +224,7 @@ class Resume extends Component {
                     <p className="margin">
                         Designed and developed a professional website from the ground up for <strong>ThreeWay Drywall</strong>, a construction company specializing in drywall solutions. The website enhances the company’s online presence, showcases its services, and supports marketing initiatives. Visit the live site here:{" "}
                         <a 
-                            href="https://constructifydev.netlify.app/" 
+                            href="https://threewaydrywall.ca/" 
                             target="_blank" 
                             rel="noopener noreferrer"
                         >
