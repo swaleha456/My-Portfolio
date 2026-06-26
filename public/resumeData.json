@@ -1,182 +1,192 @@
 {
-    "main": {
-      "name": "Swaleha",
-      "occupation": "Full Stack Developer",
-      "companyname": "@Encubate Tech Private Limited, #FullStackDeveloper #Programmer",
-      "companyurl": "https://www.flexc.work/",
-      "description": "Dedicated Full Stack Developer with QA Expertise",
-      "institutename": "@Graphic Era University (India)",
-      "image": "picc.jpg",
-       "bio": "I am a Full Stack Developer with experience building scalable and user-friendly web applications using React, Node.js, and .NET. I have worked across roles involving automated testing and deployment pipelines using Playwright, Postman, and Azure DevOps, with a strong focus on performance, security, and maintainable code. I enjoy taking projects from concept to deployment, solving real-world problems, and delivering impactful software solutions. I am currently open to new opportunities where I can continue growing and contribute as a developer.",
-      
-        "contactmessage": "Feel free to reach out for collaborations, consulting, or project opportunities.",
-      "email": "swaleha2612000@gmail.com",
-      "phone": "",
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "",
-        "zip": ""
+  "main": {
+    "name": "Swaleha",
+    "occupation": "Full Stack Software Engineer",
+    "companyname": "@Tata Consultancy Services | Full Stack Developer",
+    "companyurl": "https://www.tcs.com/",
+    "description": "Full Stack Developer | .NET | React | Node.js | Cloud",
+    "institutename": "@Graphic Era University (India)",
+    "image": "picc.jpg",
+    "bio": "I am a Full Stack Developer with over 4 years of experience designing and building scalable enterprise web applications using C#, .NET Core, React, Node.js, TypeScript, SQL Server, and cloud technologies. Currently, I work at Tata Consultancy Services (TCS), contributing to enterprise application development. Previously, I developed AI-powered governance platforms at VerifyWise and enterprise software solutions at Encubate Tech for international clients. I enjoy solving complex problems, building high-quality software, and continuously learning modern technologies.",
+    "contactmessage": "Feel free to reach out for collaborations, consulting, or project opportunities.",
+    "email": "swaleha2612000@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://tech-swalehas-projects.vercel.app/",
+    "resumedownload": "./Swaleha Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/swaleha-6057311a5",
+        "className": "fa fa-linkedin"
       },
-      "website": "https://tech-swalehas-projects.vercel.app/",
-      "resumedownload": "./Swaleha Resume.pdf",
-      "social": [
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/swaleha-6057311a5",
-          "className": "fa fa-linkedin"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/swaleha456",
-          "className": "fa fa-github"
-        }
-      ]
-    },
-    "resume": {
-      "skillmessage": "Here are some of my skills and qualifications - ",
-      "education": [
-        {
-          "school": "Graphic Era University (Dehradun, India)",
-          "degree": "BTECH - Bachelor of Computer Science",
-          "graduated": "2017 - 2021",
-          "description": "Graduated with a GPA of 3.7/4"
-        }
-      ],
-      "work": [
-        {
-          "company": "VerifyWise (BlueWave Labs)",
-          "companyUrl": "https://app.verifywise.ai/",
-          "title": "Full Stack Developer (Volunteer)",
-          "years": "Aug 2025 – Feb 2026",
-          "logoUrl": "images/verifywise.png",
-          "description": "At VerifyWise, a product under BlueWave Labs, I contributed to the development of a robust AI governance platform by building scalable full-stack solutions using React, Node.js, and TypeScript. I worked on API integrations, optimized database queries, and implemented security best practices across the platform. Collaborating with cross-functional teams, I helped deliver new features, improve application performance, and maintain efficient CI/CD pipelines using Azure DevOps."
-        },    
-        {
-          "company": "Professional Development & Freelance Work | Remote, Canada",
-          "title": "Full Stack Developer (Freelance & Open Source)",
-          "years": "Nov 2024 – July 2025",
-          "description": "Focused on professional development, upskilling, and freelance projects. Created a personal developer portfolio and earned certifications in C# and TypeScript. Built a fully functional construction company website for a friend, featuring a responsive design, service pages, and contact forms. Developed secure full-stack applications using Node.js, React, TypeScript, and PostgreSQL, deployed via AWS and Docker. Practiced test-driven development (TDD) and contributed to continuous integration pipelines in freelance and open-source projects. Designed client-side interfaces with responsive UIs, and implemented backend logic with RESTful and GraphQL APIs."
-        },
-        {
-          "company": "Encubate Tech Pvt. Ltd. (FlexC)",
-          "companyUrl": "https://www.flexc.work/",
-          "title": "Full Stack Developer",
-          "years": "Oct 2021 - Oct 2024",
-          "logoUrl": "images/FLEXC.png",
-          "description": "Encubate Tech Pvt. Ltd. is a technology services company providing innovative solutions in AI-driven automation and recruitment technologies. As a Full Stack Developer and QA Analyst, I developed and launched the OCTO feature on the FlexC platform, optimized performance and scalability, and built dynamic interfaces using ReactJS, Redux, and .NET. I also conducted end-to-end testing, including manual testing, API testing using Postman, and automation testing using Playwright. Collaborated in QA retrospectives, UAT to production deployments, and resolved bugs through debugging and root cause analysis."
-        },
-        {
-          "company": "John Finch Computers Limited (Client via FlexC)",
-          "companyUrl": "https://www.johnfinchcomputers.co.uk/",
-          "title": "Full Stack Developer",
-          "years": "",
-          "logoUrl": "images/John.png",
-          "description": "Delivered end-to-end software solutions, developing secure, scalable applications using C#, .NET, SQL, and Angular. Built and integrated secure RESTful APIs to meet client-specific requirements. Enhanced performance and scalability through application optimization, while collaborating with the security team to align with corporate security policies. Deployed applications seamlessly using Azure and DevOps tools."
-        },
-        {
-          "company": "Inforica (Client via FlexC)",
-          "companyUrl": "https://www.inforica.com/",
-          "title": "Full Stack Developer",
-          "years": "",
-          "logoUrl": "images/inforica.png",
-          "description": "Worked on delivering tailored software solutions for Inforica, focusing on scalable web-based systems. Developed and maintained RESTful APIs using .NET and C#, and built web applications with JavaScript, HTML, and CSS. Managed workflows with Azure DevOps and TFVC, ensuring timely delivery of high-quality software. Designed and optimized databases using SQL Server and MongoDB for efficient data handling."
-        }
-      ],
-     "skills": [
-    {
-      "category": "Frontend",
-      "skills": [
-        { "name": "React", "level": "95%" },
-        { "name": "TypeScript", "level": "90%" },
-        { "name": "JavaScript", "level": "90%" },
-        { "name": "Redux", "level": "85%" },
-        { "name": "HTML", "level": "95%" },
-        { "name": "CSS", "level": "95%" }
-      ]
-    },
-    {
-      "category": "Backend",
-      "skills": [
-        { "name": "Node.js", "level": "85%" },
-        { "name": "API Integration", "level": "85%" },
-        { "name": "REST", "level": "80%" },
-        { "name": "C#", "level": "50%" },
-        { "name": "SQL", "level": "80%" },
-        { "name": "MongoDB", "level": "80%" },
-        { "name": "PostgreSQL", "level": "80%" }
-      ]
-    },
-    {
-      "category": "Cloud / DevOps",
-      "skills": [
-        { "name": "AWS", "level": "80%" },
-        { "name": "Azure", "level": "80%" },
-        { "name": "GitHub Actions", "level": "75%" },
-        { "name": "Docker", "level": "90%" },
-        { "name": "CI/CD", "level": "80%" },
-        { "name": "Vercel Deployments", "level": "80%" },
-        { "name": "Netlify", "level": "80%" }
-      ]
-    },
-    {
-      "category": "Tools",
-      "skills": [
-        { "name": "GitHub", "level": "90%" },
-        { "name": "Jira", "level": "100%" },
-        { "name": "Figma", "level": "90%" },
-        { "name": "Postman", "level": "90%" },
-        { "name": "VS Code", "level": "95%" },
-        { "name": "Docker", "level": "90%" },
-        { "name": "PG Admin", "level": "80%" }
-      ]
-    },
-    {
-      "category": "Practices",
-      "skills": [
-        { "name": "Design Systems", "level": "85%" },
-        { "name": "Component Architecture", "level": "90%" },
-        { "name": "Documentation", "level": "90%" },
-        { "name": "Code Reviews", "level": "85%" },
-        { "name": "Performance Optimization", "level": "85%" },
-        { "name": "Agile/Scrum", "level": "80%" }
-      ]
-    },
-    {
-      "category": "Soft Skills",
-      "skills": [
-        { "name": "Communication", "level": "95%" },
-        { "name": "Collaboration", "level": "95%" },
-        { "name": "Curiosity", "level": "90%" },
-        { "name": "Problem Solving", "level": "90%" },
-        { "name": "Attention to Detail", "level": "95%" }
-      ]
-    }
-  ]
-    },
-    "portfolio": {
-  "projects": [
-    {
-     
-    }
-  ]
-},
-    "testimonials": {
-      "testimonials": [
-        {
-          "text": "I worked closely with Swaleha. She’s a very reliable and thoughtful developer. She’s strong in Javascript, React, TypeScript, and Node.js. She doesn’t just code and really thinks about how things should work. She asks great questions, cares about quality, and takes ownership when something needs fixing. She communicates clearly, supports her teammates, and can be trusted with important parts of a product. I’d happily work with her again and strongly recommend her to any team.",
-          "user": "Dr. Gorkem Cetin, CEO @ VerifyWise"
-        },
-        {
-          "text": "I’m thrilled to recommend Swaleha. She consistently delivers scalable, secure, and high-performing web applications, seamlessly integrating front-end and back-end functionality. Her technical expertise, problem-solving skills, and meticulous attention to detail make her an invaluable and trusted team member.",
-          "user": "Muhammad Khalilzadeh, Technical Leader @ VerifyWise"
-        },
-        {
-          "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",
-          "user": "Prasoon Kumar Gupta, CTO at FlexC"
-        }
-      ]
-
-    }
+      {
+        "name": "github",
+        "url": "https://github.com/swaleha456",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my skills and qualifications - ",
+    "education": [
+      {
+        "school": "Graphic Era University (Dehradun, India)",
+        "degree": "BTECH - Bachelor of Computer Science",
+        "graduated": "2017 - 2021",
+        "description": "Graduated with a GPA of 3.7/4"
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services (TCS)",
+        "companyUrl": "https://www.tcs.com/",
+        "title": "Full Stack Developer",
+        "years": "June 2026 – Present",
+        "logoUrl": "images/tcs.png",
+        "description": "Working as a Full Stack Developer, contributing to enterprise application development. Collaborating with cross-functional Agile teams to develop secure and scalable web applications using C#, .NET Core, React, SQL Server, and REST APIs. Participating in application development, code reviews, testing, debugging, CI/CD, and production support while following enterprise development standards and best practices."
+      },
+      {
+        "company": "VerifyWise (BlueWave Labs)",
+        "companyUrl": "https://app.verifywise.ai/",
+        "title": "Full Stack Developer",
+        "years": "Aug 2025 – Feb 2026",
+        "logoUrl": "images/verifywise.png",
+        "description": "Contributed to the development of an AI governance and compliance platform by building scalable full-stack applications using React, Node.js, TypeScript, PostgreSQL, and REST APIs. Collaborated with product and engineering teams to deliver new features, optimize application performance, improve security, and maintain CI/CD pipelines using Azure DevOps."
+      },
+      {
+        "company": "Professional Development & Freelance Work | Remote, Canada",
+        "title": "Full Stack Developer",
+        "years": "Nov 2024 – July 2025",
+        "description": "Focused on expanding expertise in enterprise application development while building freelance and personal projects. Developed secure full-stack applications using React, Node.js, TypeScript, C#, .NET, PostgreSQL, AWS, and Docker. Built responsive web applications, implemented REST APIs, practiced Test-Driven Development, and strengthened cloud deployment and CI/CD skills."
+      },
+      {
+        "company": "Encubate Tech Pvt. Ltd. (FlexC)",
+        "companyUrl": "https://www.flexc.work/",
+        "title": "Full Stack Developer",
+        "years": "Oct 2021 - Oct 2024",
+        "logoUrl": "images/FLEXC.png",
+        "description": "Developed enterprise web applications using React, .NET, Node.js, MongoDB, and SQL Server for AI-driven recruitment and business platforms. Designed and implemented RESTful APIs, optimized application performance, participated in production deployments, resolved defects, and collaborated with business analysts, QA engineers, and product teams throughout the SDLC."
+      },
+      {
+        "company": "John Finch Computers Limited (Client via FlexC)",
+        "companyUrl": "https://www.johnfinchcomputers.co.uk/",
+        "title": "Full Stack Developer",
+        "years": "",
+        "logoUrl": "images/John.png",
+        "description": "Delivered end-to-end software solutions by developing secure and scalable applications using C#, .NET, SQL Server, and JavaScript. Built and integrated RESTful APIs, completed enhancements and break/fix implementations, improved application performance, and supported deployment activities using Azure and DevOps tools."
+      },
+      {
+        "company": "Inforica (Client via FlexC)",
+        "companyUrl": "https://www.inforica.com/",
+        "title": "Full Stack Developer",
+        "years": "",
+        "logoUrl": "images/inforica.png",
+        "description": "Developed and maintained cloud-based applications using .NET, C#, Azure Functions, MongoDB, JavaScript, HTML, and CSS. Supported system configuration, authentication setup, environment monitoring, database optimization, and secure coding practices for scalable enterprise solutions."
+      }
+    ],
+    "skills": [
+      {
+        "category": "Frontend",
+        "skills": [
+          { "name": "React", "level": "95%" },
+          { "name": "TypeScript", "level": "90%" },
+          { "name": "JavaScript", "level": "90%" },
+          { "name": "Redux", "level": "85%" },
+          { "name": "HTML", "level": "95%" },
+          { "name": "CSS", "level": "95%" }
+        ]
+      },
+      {
+        "category": "Backend",
+        "skills": [
+          { "name": "C#", "level": "85%" },
+          { "name": ".NET Core", "level": "85%" },
+          { "name": "ASP.NET Core", "level": "85%" },
+          { "name": "Node.js", "level": "85%" },
+          { "name": "REST APIs", "level": "85%" },
+          { "name": "API Integration", "level": "85%" },
+          { "name": "SQL Server", "level": "85%" },
+          { "name": "SQL", "level": "80%" },
+          { "name": "MongoDB", "level": "80%" },
+          { "name": "PostgreSQL", "level": "80%" }
+        ]
+      },
+      {
+        "category": "Cloud / DevOps",
+        "skills": [
+          { "name": "Azure", "level": "85%" },
+          { "name": "Azure DevOps", "level": "85%" },
+          { "name": "AWS", "level": "80%" },
+          { "name": "Docker", "level": "90%" },
+          { "name": "CI/CD", "level": "85%" },
+          { "name": "GitHub Actions", "level": "75%" },
+          { "name": "Vercel Deployments", "level": "80%" },
+          { "name": "Netlify", "level": "80%" }
+        ]
+      },
+      {
+        "category": "Tools",
+        "skills": [
+          { "name": "GitHub", "level": "90%" },
+          { "name": "Jira", "level": "90%" },
+          { "name": "Postman", "level": "90%" },
+          { "name": "VS Code", "level": "95%" },
+          { "name": "Visual Studio", "level": "90%" },
+          { "name": "Docker", "level": "90%" },
+          { "name": "PG Admin", "level": "80%" }
+        ]
+      },
+      {
+        "category": "Enterprise Practices",
+        "skills": [
+          { "name": "SDLC", "level": "90%" },
+          { "name": "Agile/Scrum", "level": "90%" },
+          { "name": "Secure Coding", "level": "85%" },
+          { "name": "Code Reviews", "level": "85%" },
+          { "name": "Unit Testing", "level": "85%" },
+          { "name": "Integration Testing", "level": "80%" },
+          { "name": "Debugging", "level": "90%" },
+          { "name": "Performance Optimization", "level": "85%" },
+          { "name": "Microservices", "level": "80%" }
+        ]
+      },
+      {
+        "category": "Soft Skills",
+        "skills": [
+          { "name": "Communication", "level": "95%" },
+          { "name": "Collaboration", "level": "95%" },
+          { "name": "Problem Solving", "level": "90%" },
+          { "name": "Attention to Detail", "level": "95%" },
+          { "name": "Continuous Learning", "level": "90%" }
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {}
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I worked closely with Swaleha. She’s a very reliable and thoughtful developer. She’s strong in Javascript, React, TypeScript, and Node.js. She doesn’t just code and really thinks about how things should work. She asks great questions, cares about quality, and takes ownership when something needs fixing. She communicates clearly, supports her teammates, and can be trusted with important parts of a product. I’d happily work with her again and strongly recommend her to any team.",
+        "user": "Dr. Gorkem Cetin, CEO @ VerifyWise"
+      },
+      {
+        "text": "I’m thrilled to recommend Swaleha. She consistently delivers scalable, secure, and high-performing web applications, seamlessly integrating front-end and back-end functionality. Her technical expertise, problem-solving skills, and meticulous attention to detail make her an invaluable and trusted team member.",
+        "user": "Muhammad Khalilzadeh, Technical Leader @ VerifyWise"
+      },
+      {
+        "text": "Swaleha has been a cornerstone of innovation at FlexC, playing a pivotal role in the development of the OCTO feature. Her dedication to quality, problem-solving mindset, and technical expertise have consistently exceeded expectations.",
+        "user": "Prasoon Kumar Gupta, CTO at FlexC"
+      }
+    ]
   }
-  
+}
